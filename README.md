@@ -1,5 +1,6 @@
 # vulkan-xr
 Learn the essentials of creating an XR game using OpenXR and Vulkan in C++, following @tdbe's tutorial.
+
 ![Teaser](teaser.gif)
 
 ## Key Features Implemented:
